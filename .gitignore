@@ -1,0 +1,11 @@
+Serials/Generator/obj/x86/
+Serials/Verifier/obj/
+RSACryptoPad/obj/Debug/RSACryptoPad.csproj.FileListAbsolute.txt
+*.tlog
+RSACryptoPad/obj/Debug/RSACryptoPad.KeyPairGeneratorForm.resources
+Serials/Generator/bin/
+RSACryptoPad/obj/
+RSACryptoPad/UpgradeLog.XML
+RSACryptoPad/_UpgradeReport_Files/
+RSACryptoPad/
+Serials/Serials.zip
