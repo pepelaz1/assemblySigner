@@ -1,0 +1,5 @@
+TestApp1 is signed with testapp1key.snk
+TestApp2 is signed with testapp2key.pfx, password testapp2pass
+TestApp3 is not signed
+TestApp4 is signed with testapp4key.snk
+TestApp5 is signed with testapp5key.pfx, password testapp5pass
