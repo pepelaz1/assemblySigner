@@ -15,3 +15,8 @@ AssemblySigner/TestApp4/obj/
 AssemblySigner/TestApp3/obj/
 AssemblySigner/AssemblySigner/obj/
 AssemblySigner/AssemblySigner/bin/
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
