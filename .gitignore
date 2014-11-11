@@ -20,3 +20,4 @@ AssemblySigner/AssemblySigner/bin/
 _ReSharper.*
 bin
 obj
+*.zip
